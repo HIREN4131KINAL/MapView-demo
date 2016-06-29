@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="google_api_key">AIzaSyDi77pDvStsCjVWJwMYbvh36I_150_ZJ1c</string>
+
+    <string-array name="MapType">
+        <item>  SATELLITE  </item>
+        <item>  NORMAL  </item>
+        <item>  HYBRID  </item>
+        <item>  TERRAIN  </item>
+        <item>  NONE  </item>
+    </string-array>
+
+</resources>
